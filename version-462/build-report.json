@@ -1,0 +1,26 @@
+{
+  "parsed_movies": 2000,
+  "movie_detail_pages": 2000,
+  "category_pages": 12,
+  "category_card_count": 2000,
+  "category_unique_movie_links": 2000,
+  "html_pages": 2019,
+  "baidu_missing_pages": [],
+  "sample_player_missing_pages": [],
+  "jpg_files_in_zip_source": [],
+  "forbidden_old_logo_pages": [],
+  "category_counts": {
+    "国产剧集": 167,
+    "热播剧场": 168,
+    "剧情精选": 169,
+    "悬疑犯罪": 169,
+    "爱情家庭": 169,
+    "动作冒险": 169,
+    "喜剧音乐": 168,
+    "科幻奇幻": 169,
+    "历史古装": 167,
+    "日韩佳作": 169,
+    "欧美佳片": 170,
+    "动画综艺": 146
+  }
+}
